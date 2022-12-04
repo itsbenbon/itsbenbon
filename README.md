@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itsbenbon
+- 👀 I’m interested in: telling malicious softwares by reverse engineering
+- 🌱 I’m currently learning: on something
+- 💞️ I’m looking to collaborate on: nothing
+- 📫 How to reach me: don't
